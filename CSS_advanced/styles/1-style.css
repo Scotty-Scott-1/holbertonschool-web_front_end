@@ -1,0 +1,4 @@
+/*Changed scroll behavior to smooth for all content inside the html tags*/
+html {
+	scroll-behavior: smooth;
+}
