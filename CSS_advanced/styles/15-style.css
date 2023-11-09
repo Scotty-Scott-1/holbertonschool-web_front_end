@@ -28,11 +28,8 @@ html {line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:
 
 }
 
-* {
-	box-sizing: border-box;
-}
-
 html {
+	box-sizing: border-box;
 	scroll-behavior: smooth;
 	font-size: 62.5%;
 }
