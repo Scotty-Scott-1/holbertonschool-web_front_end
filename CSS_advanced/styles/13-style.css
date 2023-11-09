@@ -40,7 +40,7 @@ body {
 	line-height: var(--line-height-base);
 }
 
-a:not([href]):empty {
+a[href]:not(:empty) {
 	color: #161616;
 	text-decoration: none;
 }
