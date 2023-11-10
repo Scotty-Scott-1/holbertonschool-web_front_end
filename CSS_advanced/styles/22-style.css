@@ -198,8 +198,8 @@ ul.row {
 	clear: both;
 }
 
-section[data-section-theme="dark"] {
-	--text-color: var(--color-white) !important;
-	--section-title-color: var(--color-white) !important;
+[data-section-theme="dark"] {
+	--text-color: var(--color-white);
+	--section-title-color: var(--color-white);
 	background-color: var(--color-black);
 }
